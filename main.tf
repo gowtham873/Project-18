@@ -36,7 +36,7 @@ resource "aws_instance" "gitops_ec2" {
 
   tags = {
 
-    Name = "Project18-GitOps-EC2"
+    Name = "Project18-GitOps-EC2-1"
 
   }
 
